@@ -1,16 +1,19 @@
 'use strict';
 
 
+let money = prompt('Ваш бюджет на месяц?','');
+let time = prompt('Введите дату в формате YYYY-MM-DD', '');
+let obRash = prompt('Введите обязательную статью расходов в этом месяце','');
+let obo = prompt('Во сколько обойдется?','');
 
-let persone = {
-    name: 'John',
-    age: 30,
-    isMarryed: true
+
+let appData = {
+    budget: money,
+    timeData: time,
+    expenses: {obRash: obo},
+    optionalExpenses: '',
+    income: [],
+    savings: false
 };
 
-console.log(typeof(persone.age));
-
-
-let answer = +prompt('Есть ли вам 20?','Да');
-
-console.log(answer);
+alert(appData.budget/30);
