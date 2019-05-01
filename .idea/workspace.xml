@@ -4,21 +4,13 @@
     <bookmark url="file://$PROJECT_DIR$/Lesson 4/script.js" line="37" mnemonic="6" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="188eeb7c-027e-445a-80c3-9aef1835a490" name="Default Changelist" comment="Lesson 4">
-      <change afterPath="$PROJECT_DIR$/Learn/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 5/dz/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 5/dz/img/apple.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 5/dz/img/apple_true.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 5/dz/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 5/dz/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 5/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 5/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+    <list default="true" id="188eeb7c-027e-445a-80c3-9aef1835a490" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lesson 6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 6/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <ignored path=".idea/" />
     <ignored path=".idea/workspace.xml" />
@@ -35,21 +27,21 @@
     <favorites_list name="JS" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="69" column="64" lean-forward="true" selection-start-line="69" selection-start-column="64" selection-end-line="69" selection-end-column="64" />
+            <state relative-caret-position="285">
+              <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+            <state relative-caret-position="126">
+              <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -67,6 +59,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>detectDayBudget</find>
+      <find>income</find>
+      <find>start</find>
+      <find>dayBudgetValue</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -82,7 +77,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/script.js" />
         <option value="$PROJECT_DIR$/Lesson 4/script.js" />
         <option value="$PROJECT_DIR$/Lesson 3/script.js" />
@@ -91,7 +85,11 @@
         <option value="$PROJECT_DIR$/Lesson 5/style.css" />
         <option value="$PROJECT_DIR$/Lesson 5/script.js" />
         <option value="$PROJECT_DIR$/Lesson 5/dz/js/script.js" />
+        <option value="$PROJECT_DIR$/Lesson 6/index.html" />
+        <option value="$PROJECT_DIR$/Lesson 6/script.js" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -105,7 +103,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,30 +113,38 @@
             <path>
               <item name="JS" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lesson 6" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Rainbow Brackets" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PhpStorm\JS" />
+      <recent name="C:\PhpStorm\JS\Lesson 4" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PhpStorm\JS\Lesson 6" />
       <recent name="C:\PhpStorm\JS\Learn" />
       <recent name="C:\PhpStorm\JS\Lesson 3" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\PhpStorm\JS\Lesson 4" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -179,7 +184,10 @@
       <workItem from="1556084929322" duration="47000" />
       <workItem from="1556515606511" duration="836000" />
       <workItem from="1556600455567" duration="651000" />
-      <workItem from="1556606330576" duration="11109000" />
+      <workItem from="1556606330576" duration="13286000" />
+      <workItem from="1556652669201" duration="6000" />
+      <workItem from="1556653539657" duration="4568000" />
+      <workItem from="1556693939587" duration="5651000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1555613591027</created>
@@ -216,11 +224,25 @@
       <option name="project" value="LOCAL" />
       <updated>1556035804368</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lesson 5">
+      <created>1556629038480</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556629038481</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Lesson 5">
+      <created>1556629251023</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1556629251023</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40449000" />
+    <option name="totallyTimeSpent" value="52851000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -235,7 +257,7 @@
     <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49934298" visible="true" weight="0.2771855" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49934298" visible="true" weight="0.26492536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.500657" side_tool="true" weight="0.46745563" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -247,7 +269,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32928178" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.24530387" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.24342105" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.25303867" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -262,7 +284,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="Lesson 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 4" />
+    <MESSAGE value="Lesson 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -328,38 +351,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson 5/dz/index.html">
+    <entry file="file://$PROJECT_DIR$/Lesson 6/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-start-column="3" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 6/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson 5/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
+        <state relative-caret-position="391">
           <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 5/dz/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson 5/dz/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
+        <state relative-caret-position="459">
           <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="69" column="64" lean-forward="true" selection-start-line="69" selection-start-column="64" selection-end-line="69" selection-end-column="64" />
+        <state relative-caret-position="459">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        <state relative-caret-position="126">
+          <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
         </state>
       </provider>
     </entry>
