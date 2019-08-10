@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="188eeb7c-027e-445a-80c3-9aef1835a490" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson 27/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 27/script-value.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yoga/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/yoga/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yoga/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/yoga/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 27/script-value.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 27/script-value.js" afterDir="false" />
     </list>
     <ignored path=".idea/" />
     <ignored path=".idea/workspace.xml" />
@@ -24,20 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson 27/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lesson 27/script-value.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="11" selection-end-column="3" />
+            <state relative-caret-position="136">
+              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -121,6 +108,11 @@
             <path>
               <item name="JS" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson 27" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS" type="b2602c69:ProjectViewProjectNode" />
@@ -212,7 +204,7 @@
       <workItem from="1557003197833" duration="1044000" />
       <workItem from="1557085375968" duration="6528000" />
       <workItem from="1557116926352" duration="463000" />
-      <workItem from="1565380095161" duration="2497000" />
+      <workItem from="1565380095161" duration="2720000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1555613591027</created>
@@ -291,11 +283,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557117248718</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Lesson 27">
+      <created>1565413393051</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1565413393051</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78486000" />
+    <option name="totallyTimeSpent" value="78709000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -310,7 +309,7 @@
     <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49934298" visible="true" weight="0.25799572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49934298" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.500657" side_tool="true" weight="0.46745563" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -322,8 +321,8 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32928178" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.24285714" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.25494507" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.24285714" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25494507" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -340,7 +339,8 @@
     <MESSAGE value="Lesson 5" />
     <MESSAGE value="Lesson 7" />
     <MESSAGE value="Lesson 24" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 24" />
+    <MESSAGE value="Lesson 27" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 27" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -531,8 +531,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson 27/script-value.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" selection-end-column="3" />
+        <state relative-caret-position="136">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
         </state>
       </provider>
     </entry>
