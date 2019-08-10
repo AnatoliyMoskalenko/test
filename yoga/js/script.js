@@ -50,7 +50,7 @@ window.addEventListener('DOMContentLoaded', function () {
     //Timer
 
 
-    function timer(dateString){
+    function timer(dateString) {
 
         let deadline = dateString;
 
@@ -79,8 +79,8 @@ window.addEventListener('DOMContentLoaded', function () {
                 let t = getTimeRemaining(endtime);
 
 
-                function zeroBefore(time){
-                    if (time <= 9){
+                function zeroBefore(time) {
+                    if (time <= 9) {
                         time = '0' + time;
                     } else {
                         time = time;
@@ -105,4 +105,32 @@ window.addEventListener('DOMContentLoaded', function () {
     }
 
     timer('2019-05-08');
+
+    // Modal
+
+    let more = document.querySelector('.more'),
+        overlay = document.querySelector('.overlay'),
+        close = document.querySelector('.popup-close'),
+        allBtns = document.querySelectorAll('.description-btn');
+
+    more.addEventListener('click', function () {
+        overlay.style.display = 'block';
+        this.classList.add('more-splash');
+        document.body.style.overflow = 'hidden';
+    });
+
+    close.addEventListener('click', function () {
+        overlay.style.display = 'none';
+        more.classList.remove('more-splash');
+        document.body.style.overflow = 'auto';
+    });
+
+
+    allBtns.forEach(function (item) {
+        item.addEventListener('click', function () {
+            overlay.style.display = 'block';
+            document.body.style.overflow = 'hidden';
+        })
+    });
+
 });
