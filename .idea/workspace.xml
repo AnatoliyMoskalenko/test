@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="188eeb7c-027e-445a-80c3-9aef1835a490" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Lesson 27/script-value.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 27/script-value.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 28/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 28/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task 12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task 12/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path=".idea/" />
     <ignored path=".idea/workspace.xml" />
@@ -20,11 +24,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lesson 27/script-value.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task 12/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Task 12/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -84,10 +106,14 @@
         <option value="$PROJECT_DIR$/Lesson 24/script.js" />
         <option value="$PROJECT_DIR$/yoga/js/script-value.js" />
         <option value="$PROJECT_DIR$/yoga/index.html" />
-        <option value="$PROJECT_DIR$/yoga/js/script.js" />
         <option value="$PROJECT_DIR$/Task 11/script-value.js" />
         <option value="$PROJECT_DIR$/Task 11/index.html" />
         <option value="$PROJECT_DIR$/Lesson 27/script-value.js" />
+        <option value="$PROJECT_DIR$/Lesson 28/index.html" />
+        <option value="$PROJECT_DIR$/Lesson 28/script.js" />
+        <option value="$PROJECT_DIR$/yoga/js/script.js" />
+        <option value="$PROJECT_DIR$/Task 12/index.html" />
+        <option value="$PROJECT_DIR$/Task 12/script.js" />
       </list>
     </option>
   </component>
@@ -135,7 +161,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Task 11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Task 12" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Rainbow Brackets" />
@@ -148,11 +174,11 @@
       <recent name="C:\PhpStorm\JS\Lesson 4" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PhpStorm\JS\Task 12" />
+      <recent name="C:\PhpStorm\JS\Lesson 28" />
       <recent name="C:\PhpStorm\JS\Task 11" />
       <recent name="C:\PhpStorm\JS\yoga\js" />
       <recent name="C:\PhpStorm\JS" />
-      <recent name="C:\PhpStorm\JS\Landing-page" />
-      <recent name="C:\PhpStorm\JS\Lesson 6" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -204,7 +230,7 @@
       <workItem from="1557003197833" duration="1044000" />
       <workItem from="1557085375968" duration="6528000" />
       <workItem from="1557116926352" duration="463000" />
-      <workItem from="1565380095161" duration="2720000" />
+      <workItem from="1565380095161" duration="11050000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1555613591027</created>
@@ -290,11 +316,18 @@
       <option name="project" value="LOCAL" />
       <updated>1565413393051</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Lesson 27">
+      <created>1565413601154</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1565413601154</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78709000" />
+    <option name="totallyTimeSpent" value="87039000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -309,7 +342,7 @@
     <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49934298" visible="true" weight="0.25799572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49934298" visible="true" weight="0.2185501" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.500657" side_tool="true" weight="0.46745563" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -321,8 +354,8 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32928178" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.24285714" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25494507" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.24285714" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.25494507" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -515,24 +548,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yoga/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson 27/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 28/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task 12/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yoga/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="135" column="3" lean-forward="true" selection-start-line="135" selection-start-column="3" selection-end-line="135" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 28/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="66" column="17" lean-forward="true" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson 27/script-value.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task 12/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
         </state>
       </provider>
     </entry>
