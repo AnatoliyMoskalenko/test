@@ -171,7 +171,7 @@ window.addEventListener('DOMContentLoaded', function () {
                                 reject();
                             }
                         }
-                    };
+                    }
                     request.send(data);
 
                 })
