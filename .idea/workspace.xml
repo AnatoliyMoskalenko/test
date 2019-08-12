@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="188eeb7c-027e-445a-80c3-9aef1835a490" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson 36/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 36/promise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task 14/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task 14/js/current.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task 14/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yoga/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/yoga/js/script.js" afterDir="false" />
     </list>
     <ignored path=".idea/" />
     <ignored path=".idea/workspace.xml" />
@@ -32,23 +32,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/yoga/js/script.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson 36/promise.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="167" column="32" selection-start-line="167" selection-start-column="32" selection-end-line="167" selection-end-column="32" />
+            <state relative-caret-position="557">
+              <caret line="69" column="14" selection-start-line="69" selection-start-column="10" selection-end-line="69" selection-end-column="14" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson 36/promise.js">
+        <entry file="file://$PROJECT_DIR$/yoga/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="71" column="17" lean-forward="true" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="13">
+              <caret line="157" column="37" lean-forward="true" selection-start-line="157" selection-start-column="37" selection-end-line="157" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Task 14/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -123,6 +132,7 @@
         <option value="$PROJECT_DIR$/Lesson 36/index.html" />
         <option value="$PROJECT_DIR$/Lesson 36/promise.js" />
         <option value="$PROJECT_DIR$/yoga/js/script.js" />
+        <option value="$PROJECT_DIR$/Task 14/js/script.js" />
       </list>
     </option>
   </component>
@@ -148,12 +158,12 @@
             <path>
               <item name="JS" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
-              <item name="yoga" type="462c0819:PsiDirectoryNode" />
+              <item name="Task 14" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
-              <item name="yoga" type="462c0819:PsiDirectoryNode" />
+              <item name="Task 14" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -237,7 +247,7 @@
       <workItem from="1557116926352" duration="463000" />
       <workItem from="1565380095161" duration="14630000" />
       <workItem from="1565523690398" duration="403000" />
-      <workItem from="1565524281226" duration="7855000" />
+      <workItem from="1565524281226" duration="10891000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1555613591027</created>
@@ -344,11 +354,25 @@
       <option name="project" value="LOCAL" />
       <updated>1565527696639</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Task 14">
+      <created>1565549254166</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1565549254166</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Task 14">
+      <created>1565549397080</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1565549397080</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98877000" />
+    <option name="totallyTimeSpent" value="101913000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -361,9 +385,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49934298" weight="0.67004263" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49934298" visible="true" weight="0.18283582" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.500657" side_tool="true" weight="0.46745563" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -375,8 +398,8 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32928178" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.24175824" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26244345" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.24175824" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26153848" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="12" visible="true" weight="0.32967034" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -397,7 +420,8 @@
     <MESSAGE value="Lesson 27" />
     <MESSAGE value="Task 12" />
     <MESSAGE value="Task 13 Forms" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 13 Forms" />
+    <MESSAGE value="Task 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 14" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -650,18 +674,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson 36/promise.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="71" column="17" lean-forward="true" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+        <state relative-caret-position="557">
+          <caret line="69" column="14" selection-start-line="69" selection-start-column="10" selection-end-line="69" selection-end-column="14" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Task 14/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/yoga/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="167" column="32" selection-start-line="167" selection-start-column="32" selection-end-line="167" selection-end-column="32" />
+        <state relative-caret-position="13">
+          <caret line="157" column="37" lean-forward="true" selection-start-line="157" selection-start-column="37" selection-end-line="157" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task 14/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
         </state>
       </provider>
     </entry>
