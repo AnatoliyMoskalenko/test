@@ -24,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/yoga/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="246" column="32" selection-start-line="246" selection-start-column="32" selection-end-line="246" selection-end-column="32" />
+            <state relative-caret-position="507">
+              <caret line="297" column="18" selection-start-line="297" selection-start-column="18" selection-end-line="297" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -106,9 +106,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1175" />
-    <option name="width" value="748" />
-    <option name="height" value="1041" />
+    <option name="x" value="1053" />
+    <option name="y" value="1" />
+    <option name="width" value="867" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -219,7 +220,9 @@
       <workItem from="1565524281226" duration="10891000" />
       <workItem from="1565590411617" duration="191000" />
       <workItem from="1565602678839" duration="22000" />
-      <workItem from="1565604742184" duration="3071000" />
+      <workItem from="1565604742184" duration="3814000" />
+      <workItem from="1565773649337" duration="118000" />
+      <workItem from="1566134644598" duration="2002000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1555613591027</created>
@@ -347,11 +350,18 @@
       <option name="project" value="LOCAL" />
       <updated>1565590551105</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Task 14 Slider">
+      <created>1565617658679</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1565617658679</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105197000" />
+    <option name="totallyTimeSpent" value="108060000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -363,10 +373,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1175" y="0" width="748" height="1041" extended-state="0" />
+    <frame x="1053" y="1" width="867" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49934298" weight="0.51449275" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49934298" weight="0.95607615" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.500657" side_tool="true" weight="0.46745563" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -378,8 +388,8 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32928178" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.24175824" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26125136" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.24149287" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25934067" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="12" visible="true" weight="0.32967034" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -401,7 +411,8 @@
     <MESSAGE value="Task 12" />
     <MESSAGE value="Task 13 Forms" />
     <MESSAGE value="Task 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 14" />
+    <MESSAGE value="Task 14 Slider" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 14 Slider" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -674,8 +685,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/yoga/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="246" column="32" selection-start-line="246" selection-start-column="32" selection-end-line="246" selection-end-column="32" />
+        <state relative-caret-position="507">
+          <caret line="297" column="18" selection-start-line="297" selection-start-column="18" selection-end-line="297" selection-end-column="18" />
         </state>
       </provider>
     </entry>
