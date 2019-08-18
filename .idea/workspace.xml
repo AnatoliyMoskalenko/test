@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="188eeb7c-027e-445a-80c3-9aef1835a490" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lesson 37/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 37/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yoga/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/yoga/js/script.js" afterDir="false" />
     </list>
     <ignored path=".idea/" />
     <ignored path=".idea/workspace.xml" />
@@ -21,11 +22,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/yoga/js/script.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson 37/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="297" column="18" selection-start-line="297" selection-start-column="18" selection-end-line="297" selection-end-column="18" />
+            <state relative-caret-position="153">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lesson 37/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="41" column="55" selection-start-line="41" selection-start-column="55" selection-end-line="41" selection-end-column="55" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,14 +114,16 @@
         <option value="$PROJECT_DIR$/Lesson 36/promise.js" />
         <option value="$PROJECT_DIR$/Task 14/js/script.js" />
         <option value="$PROJECT_DIR$/yoga/js/script.js" />
+        <option value="$PROJECT_DIR$/Lesson 37/index.html" />
+        <option value="$PROJECT_DIR$/Lesson 37/script.js" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1053" />
+    <option name="x" value="1211" />
     <option name="y" value="1" />
-    <option name="width" value="867" />
+    <option name="width" value="709" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -127,13 +142,7 @@
             <path>
               <item name="JS" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
-              <item name="yoga" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
-              <item name="yoga" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson 37" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -146,24 +155,24 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/PhpStorm/for-all" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\PhpStorm\JS\Task 11" />
-      <recent name="C:\PhpStorm\JS\project" />
-      <recent name="C:\PhpStorm\JS" />
-      <recent name="C:\PhpStorm\JS\Lesson 4" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\OSPanel\domains\JS" />
       <recent name="C:\PhpStorm\JS\Lesson 34" />
       <recent name="C:\PhpStorm\JS\Task 12" />
       <recent name="C:\PhpStorm\JS\Lesson 28" />
       <recent name="C:\PhpStorm\JS\Task 11" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PhpStorm\JS\Task 11" />
+      <recent name="C:\PhpStorm\JS\project" />
+      <recent name="C:\PhpStorm\JS" />
+      <recent name="C:\PhpStorm\JS\Lesson 4" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -222,7 +231,7 @@
       <workItem from="1565602678839" duration="22000" />
       <workItem from="1565604742184" duration="3814000" />
       <workItem from="1565773649337" duration="118000" />
-      <workItem from="1566134644598" duration="2002000" />
+      <workItem from="1566134644598" duration="4254000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1555613591027</created>
@@ -357,11 +366,18 @@
       <option name="project" value="LOCAL" />
       <updated>1565617658679</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Task 16 Calculator">
+      <created>1566136823705</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1566136823706</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108060000" />
+    <option name="totallyTimeSpent" value="110312000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -373,10 +389,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1053" y="1" width="867" height="1040" extended-state="0" />
+    <frame x="1211" y="1" width="709" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49934298" weight="0.95607615" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49934298" weight="0.9548872" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.500657" side_tool="true" weight="0.46745563" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -388,7 +404,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32928178" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.24149287" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.24065934" />
       <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25934067" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="12" visible="true" weight="0.32967034" />
@@ -412,7 +428,8 @@
     <MESSAGE value="Task 13 Forms" />
     <MESSAGE value="Task 14" />
     <MESSAGE value="Task 14 Slider" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 14 Slider" />
+    <MESSAGE value="Task 16 Calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 16 Calculator" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -685,8 +702,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/yoga/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="297" column="18" selection-start-line="297" selection-start-column="18" selection-end-line="297" selection-end-column="18" />
+        <state relative-caret-position="473">
+          <caret line="297" column="41" lean-forward="true" selection-start-line="294" selection-start-column="4" selection-end-line="297" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 37/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 37/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="41" column="55" selection-start-line="41" selection-start-column="55" selection-end-line="41" selection-end-column="55" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
